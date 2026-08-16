@@ -149,15 +149,15 @@ Users enter patient information and receive a prediction from the trained model.
 
 ### Heart Disease Distribution
 
-![Heart Disease Distribution](heart_disease_distribution.png)
+![Heart Disease Distribution](Heart_Disease_Distribution.png)
 
 ### Feature Distributions
 
-![Feature Distributions](feature_distributions.png)
+![Feature Distributions](Feature_Distributions.png)
 
 ### Chest Pain Type vs Heart Disease
 
-![Chest Pain Type vs Heart Disease](chest_pain_vs_heart_disease.png)
+![Chest Pain Type vs Heart Disease](Chest Pain Type vs Heart Disease.png)
 
 ### Correlation Heatmap
 
