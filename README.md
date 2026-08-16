@@ -145,23 +145,23 @@ Users enter patient information and receive a prediction from the trained model.
 ```
 ---
 
-## 📊 Visualizations
+## 📊 Exploratory Data Analysis
 
 ### Heart Disease Distribution
 
-Heart Disease Distribution.png
+![Heart Disease Distribution](Heart_Disease_Distribution.png)
 
 ### Feature Distributions
 
-Feature_Distributions.png
+![Feature Distributions](Feature_Distributions.png)
 
 ### Chest Pain Type vs Heart Disease
 
-Chest Pain Type vs Heart Disease.png
+![Chest Pain Type vs Heart Disease](Chest_Pain_Type_vs_Heart_Disease.png)
 
 ### Correlation Heatmap
 
-Correlation_Heatmap.png
+![Correlation Heatmap](Correlation_Heatmap.png)
 
 ## 🌐 Streamlit Application
 
