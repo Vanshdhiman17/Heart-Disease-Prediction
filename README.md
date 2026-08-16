@@ -161,7 +161,7 @@ Chest Pain Type vs Heart Disease.png
 
 ### Correlation Heatmap
 
-Correlation Heatmap.png
+Correlation_Heatmap.png
 
 ## 🌐 Streamlit Application
 
