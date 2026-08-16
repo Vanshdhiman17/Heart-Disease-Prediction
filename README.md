@@ -149,19 +149,19 @@ Users enter patient information and receive a prediction from the trained model.
 
 ### Heart Disease Distribution
 
-![Heart Disease Distribution](Heart_Disease_Distribution.png)
+Heart Disease Distribution.png
 
 ### Feature Distributions
 
-![Feature Distributions](Feature_Distributions.png)
+Feature_Distributions.png
 
 ### Chest Pain Type vs Heart Disease
 
-![Chest Pain Type vs Heart Disease](Chest Pain Type vs Heart Disease.png)
+Chest Pain Type vs Heart Disease.png
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](Correlation Heatmap.png)
+Correlation Heatmap.png
 
 ## 🌐 Streamlit Application
 
