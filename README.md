@@ -120,7 +120,7 @@ The models are evaluated using:
 | K-Nearest Neighbors (KNN)    | `88%` | `89%` |
 | Decision Tree                | `74%` | `76%` |
 | Gaussian Naive Bayes         | `87%` | `88%` |
-| Support Vector Machine (SVM) | `85%` | `87` |
+| Support Vector Machine (SVM) | `85%` | `87%` |
 
 The model with the highest **F1 Score** is selected and saved for use in the Streamlit application.
 
@@ -144,6 +144,24 @@ Users enter patient information and receive a prediction from the trained model.
 ✅ Low Risk of Heart Disease
 ```
 ---
+
+## 📊 Visualizations
+
+### Heart Disease Distribution
+
+![Heart Disease Distribution](heart_disease_distribution.png)
+
+### Feature Distributions
+
+![Feature Distributions](feature_distributions.png)
+
+### Chest Pain Type vs Heart Disease
+
+![Chest Pain Type vs Heart Disease](chest_pain_vs_heart_disease.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](correlation_heatmap.png)
 
 ## 🌐 Streamlit Application
 
