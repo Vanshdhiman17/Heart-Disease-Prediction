@@ -161,7 +161,7 @@ Users enter patient information and receive a prediction from the trained model.
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](Correlation Heatmap.png)
 
 ## 🌐 Streamlit Application
 
